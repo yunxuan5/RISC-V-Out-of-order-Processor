@@ -1,0 +1,8 @@
+{
+    "clock"       : 7000,
+    "m_ext"       : true,
+    "c_ext"       : false,
+    "f_ext"       : false,
+    "bmem_0_on_x" : false,
+    "dw_ip"       : ["DW_div", "DW_div_seq"]
+}

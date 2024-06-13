@@ -1,0 +1,1 @@
+Files sim/spike.log and sim/commit.log are identical
